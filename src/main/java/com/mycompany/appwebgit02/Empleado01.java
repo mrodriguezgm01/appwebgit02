@@ -7,7 +7,7 @@ package com.mycompany.appwebgit02;
 
 /**
  *
- * @author pc moises01, vasco, elian, moises03
+ * @author pc moises01, vasco, elian, moises03, ghia
  */
 public class Empleado01 {
     
